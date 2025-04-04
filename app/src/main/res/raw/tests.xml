@@ -3,7 +3,7 @@
         <bitrate>750</bitrate>
         <host>0.0.0.0</host>
         <server_port>443</server_port>
-        <license_key></license_key>
+        <license_key>9JDK-RV78-P7B5-Q47X</license_key>
         <publish_buffer_time>0.5</publish_buffer_time>
         <subscribe_buffer_time>0.5</subscribe_buffer_time>
         <port>8554</port>
