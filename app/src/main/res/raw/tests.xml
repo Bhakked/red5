@@ -1,7 +1,7 @@
 <Testbed>
     <Properties>
         <bitrate>750</bitrate>
-        <host>0.0.0.0</host>
+        <host>192.168.0.193</host>
         <server_port>443</server_port>
         <license_key>9JDK-RV78-P7B5-Q47X</license_key>
         <publish_buffer_time>0.5</publish_buffer_time>
